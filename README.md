@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/your-twitter-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-portfolio-url.com/)
 
-Welcome to my GitHub profile! I'm a passionate [Your Role/Profession] with expertise in the following areas:
+Welcome to my GitHub profile! I'm a passionate MERN and MEAN Stack developer with expertise in the following areas:
 
 ## Skills and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
