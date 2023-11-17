@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate [Your Role/Profession] with exper
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-007ACC?logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-007ACC?logo=tailwind&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
   
 ## Projects
